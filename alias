@@ -1,0 +1,5 @@
+
+alias v=vagrant
+alias vgs="vagrant global-status"
+alias vd="vagrant destroy"
+alias vp="vagrant up"
